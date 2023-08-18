@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Develoment
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me johnsamraj123@gmail.com
 
 <!---
 JohnSamRaj/JohnSamRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
