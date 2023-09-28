@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnSamRaj
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Puthon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me johnsamraj123@gmail.com
 
