@@ -1,6 +1,7 @@
 # Hi There... 👋 It's Me JohnSamRaj...!
 ### <mark>Artificial Intelligence And Data Science 🧑‍🎓</mark>
 ---
+![](https://tenor.com/view/minato-gif-11896947)
 - 🎓 Here's My Portfolio 
 - 👀 I’m interested in **Full Stack Development**
 - 🌱 I’m currently learning **Django**
