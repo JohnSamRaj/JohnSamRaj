@@ -23,7 +23,7 @@
   <td width="50%">
 		
 &nbsp; <br> 
-<img src="https://github.com/Daisyliu6/Daisyliu6/blob/master/.gif" width="100%" height="100%"> 
+<img src="https://github.com/Er-AI-GK/Er-AI-GK/assets/106463633/cdd236b8-4265-4c5d-aa57-17063a8af270" width="100%" height="100%"> 
   </td>
   </tr>   
   </table>
