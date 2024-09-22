@@ -1,7 +1,7 @@
 <h1 align="center">Hi There...👋 It's Me JohnSamRaj...!</h1>
 <h3 align="center"><mark>Artificial Intelligence And Data Science 🧑‍🎓</mark></h3>
 <hr>
-<table width="100%" height="400px"> 
+<table width="100%" height="100%"> 
   <tr>
   <td width="50%"> 
 				
