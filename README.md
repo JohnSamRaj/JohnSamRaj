@@ -7,17 +7,17 @@
 				
 - 🎓 Here's My Portfolio
   
-- 👀 I’m interested in **Full Stack Development**
+- 👀 I’m Interested in **Full Stack Development**
   
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m Currently Learning **Django**
   
-- 📫 👇 How to reach me 👇<br>
+- 📫 👇 How to Reach Me 👇<br>
 
 	[![G-MAil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDkwpTkgTTbBrgPxjxpkcrSSqbSvbkPRdtZQGdQRfnRksNXWDvzcQNgzNvBRgbQXGkSXrVb) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/johnsamraj0301)
 
-- 😄 Pronouns : **John** || **Sam**
+- 😄 Pronouns : **John** 
   
-- ⚡ Fun fact : **I'm Tech Enthusiast** 🤭
+- ⚡ Fun Fact : **Youtube Learner** 🤭
   
   </td>
   <td width="50%">
@@ -30,4 +30,4 @@
   <hr>
   <h2 align="center">Tech Arsenal</h2>
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img width="50" height="50" src="https://img.icons8.com/ios/50/python--v1.png" alt="python--v1"/>
