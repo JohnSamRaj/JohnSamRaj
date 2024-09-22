@@ -29,5 +29,8 @@
   </table>
   <hr>
   <h2 align="center">Tech Arsenal</h2>
+  <h3>Front End Weapons</h3>
+<img width="50" height="50" src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/html-5.png"/>
+<img width="50" height="50" src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/css.png"/>
 
-<img width="50" height="50" src="https://img.icons8.com/ios/50/python--v1.png" alt="python--v1"/>
+
