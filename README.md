@@ -30,7 +30,7 @@
   <hr>
   <h2 align="center">Tech Arsenal</h2>
   <h3>Front End Weapons</h3>
-<img width="50" height="50" src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/html-5.png"/>
+<img width="70" height="70" src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/html-5.png"/>
 <img width="50" height="50" src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/css.png"/>
 
 
