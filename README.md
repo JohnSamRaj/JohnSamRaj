@@ -23,7 +23,7 @@
   <td width="50%">
 		
 &nbsp; <br> 
-<img src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/Thupakki.gif" width="500px" height="100%"> 
+<img src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/Thupakki.gif" width="480px" height="100%"> 
   </td>
   </tr>   
   </table>
