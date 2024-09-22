@@ -20,10 +20,10 @@
 - ⚡ Fun fact : **I'm Tech Enthusiast** 🤭
   
   </td>
-  <td width="50%" padding="30px">
+  <td width="50%">
 		
 &nbsp; <br> 
-<img src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/Thupakki.gif" width="100%" height="100%"> 
+<img src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/Thupakki.gif" width="600px" height="100%"> 
   </td>
   </tr>   
   </table>
