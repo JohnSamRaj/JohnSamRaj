@@ -3,7 +3,7 @@
 <hr>
 <table width="100%" height="400px"> 
   <tr>
-  <td width="70%"> 
+  <td width="50%"> 
 				
 - 🎓 Here's My Portfolio
   
@@ -20,7 +20,7 @@
 - ⚡ Fun fact : **I'm Tech Enthusiast** 🤭
   
   </td>
-  <td width="30%">
+  <td width="50%">
 		
 &nbsp; <br> 
 <img src="https://github.com/JohnSamRaj/JohnSamRaj/blob/main/Thupakki.gif" width="100%" height="100%"> 
